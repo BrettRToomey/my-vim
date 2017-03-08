@@ -1,0 +1,12 @@
+[submodule "bundle/nord-vim"]
+	path = bundle/nord-vim
+	url = git://github.com/arcticicestudio/nord-vim.git
+[submodule "bundle/lightline.vim"]
+	path = bundle/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-kai"]
+	path = bundle/vim-kai
+	url = git@github.com:kai-language/vim-kai.git
